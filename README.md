@@ -19,4 +19,4 @@ Install Python from the link above, find python.exe on your computer or open Win
 
 You can also click and drag BTCMG.py into python.exe to open the program (but remember that generator.py and the wordlist folder must be in the same folder as BTCMG.py!)
 
-(ALWAYS DOWNLOAD PYTHON FROM https://www.python.org/downloads/ ! Do not trust other sources!)
+ALWAYS DOWNLOAD PYTHON FROM https://www.python.org/downloads/ ! Do not trust other sources!
