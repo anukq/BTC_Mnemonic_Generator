@@ -11,7 +11,7 @@ If you do not trust my compiled .exe, but still want to use this, here what you 
 
 Download Python from: https://www.python.org/downloads/
 
-Download both BTCMG.py and generator.py from this repository
+Download both BTCMG.py, generator.py and the wordlist folder from this repository
 
 Put both BTCMG.py, generator.py and wordlist folder all in the same folder on your computer
 
