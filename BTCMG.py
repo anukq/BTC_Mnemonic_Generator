@@ -22,7 +22,7 @@ def display_word_phrase():
         global generated
 
         mnemonic = generator.generate_word_phrase()
-        receive_address = receiveAddress.generate_receive_address_from_mnemonic(mnemonic)
+        receive_address = publicAddress.generate_receive_address_from_mnemonic(mnemonic)
 
         seed_phrase["state"] = "normal"
         address["state"] = "normal"
