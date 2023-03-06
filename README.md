@@ -11,12 +11,12 @@ If you do not trust my compiled .exe, but still want to use this, here what you 
 
 Download Python from: https://www.python.org/downloads/
 
-Download both BTCMG.py, generator.py and the wordlist folder from this repository
+Download both BTCMG.py, generator.py, publicAddress.py and the wordlist folder from this repository
 
-Put both BTCMG.py, generator.py and wordlist folder all in the same folder on your computer
+Put both BTCMG.py, generator.py, publicAddress.py and wordlist folder all in the same folder on your computer
 
 Install Python from the link above, find python.exe on your computer or open Window's CMD and type python path/to/BTCMG.py and hit enter.
 
-You can also click and drag BTCMG.py into python.exe to open the program (but remember that generator.py and the wordlist folder must be in the same folder as BTCMG.py!)
+You can also click and drag BTCMG.py into python.exe to open the program (but remember that generator.py, publicAddress.py and the wordlist folder must be in the same folder as BTCMG.py!)
 
 ALWAYS DOWNLOAD PYTHON FROM https://www.python.org/downloads/ ! Do not trust other sources!
