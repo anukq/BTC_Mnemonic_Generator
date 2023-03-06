@@ -1,7 +1,7 @@
 from tkinter import END, Tk, Text, Button, messagebox, LEFT, BOTH
 import generator
 import os
-import receiveAddress
+import publicAddress
 
 generated = False
 
